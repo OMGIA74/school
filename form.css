@@ -1,0 +1,42 @@
+form{
+    color:rgb(0, 109, 204);
+    font-family:'Courier New', Courier, monospace;
+    background-color: aliceblue;
+}
+button{
+    color:rgb(0, 109, 204);
+    font-family:'Courier New', Courier, monospace;
+    background-color: rgb(172, 206, 236);
+    border: none;
+    border-radius: 3px;
+}
+button:hover{
+    color: rgb(172, 206, 236);
+    background-color: rgb(0, 109, 204);
+    cursor: pointer;
+}
+input{
+    color:rgb(1, 92, 172);
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 3px;
+}
+input:hover{
+    color:rgb(1, 92, 172);
+    font-family: 'Courier New', Courier, monospace;
+    border: blue;
+    border-radius: 3px;
+}
+select{
+    color:rgb(0, 109, 204);
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(172, 206, 236);
+    border: none;
+    border-radius: 3px;
+}
+select:hover{
+    color:rgb(172, 206, 236);
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(0, 109, 204);
+    border: none;
+    border-radius: 3px;
+}
